@@ -69,7 +69,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-       <Navbar />
+       {/* <Navbar /> */}
         <h3> Top 10 ideas🎁 💡</h3>
         <form onSubmit={onSubmit}>
         {/* <label>For who is the gift?</label>

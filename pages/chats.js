@@ -50,7 +50,7 @@ return (
 
       <main className={styles.main}>
       {/* <Navbar /> */}
-      <Navbar />
+      {/* <Navbar /> */}
       {/* <nav>
           <button styles={{marginLeft: "20px",
         marRight:"20px",
