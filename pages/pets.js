@@ -51,7 +51,7 @@ return (
       </Head>
 
       <main className={styles.main}>
-     <Navbar />
+     {/* <Navbar /> */}
         <h3>App name generator📱 💻 </h3>
 
           <form onSubmit={onSubmit}>
